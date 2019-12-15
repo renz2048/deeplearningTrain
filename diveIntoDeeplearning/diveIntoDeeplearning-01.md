@@ -6,6 +6,8 @@
 
 视频：[B站](https://space.bilibili.com/209599371/channel/detail?cid=23541)
 
+PPT：https://github.com/d2l-ai/berkeley-stat-157/tree/master/slides-zh
+
 测试环境：
 
 # 2. 预备知识
